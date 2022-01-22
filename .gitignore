@@ -1,0 +1,9 @@
+# vscode config 
+.vscode/
+
+# jetbrains ide configs 
+.idea/
+
+# c# auto generated folders
+bin/
+obj/
